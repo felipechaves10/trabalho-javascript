@@ -1,6 +1,5 @@
-export const mostrarMenu = () => {
+export const mostrarMenu
     console.log(`       
         Menu de Operações:
         
         `)
-}
